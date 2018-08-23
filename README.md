@@ -8,7 +8,7 @@ various SourceMod mods.
 - compiled/*.smx - compiled mod
 
 # Mods
-- nocrits [TF2] - disables all crits.
+- nocrits [TF2] - disables all crits. [Direct Download (Compiled)](https://prouser123.me/sourcemods/compiled/nocrits.smx)
 
 # How to compile
 - Create your .sp file with your sourcepawn code, then drag the file into compile.exe to compile. If there are no errors you will recive something similar to what is pictured below.
